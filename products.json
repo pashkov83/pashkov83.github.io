@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Beretta 92",
+    "price": 122,
+    "category": "pistols",
+    "url": "/shop-img/pistol3.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Heckler & Koch USP",
+    "price": 160,
+    "category": "pistols",
+    "url": "/shop-img/pistol2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Colt Walker Revolver",
+    "price": 82,
+    "category": "pistols",
+    "url": "/shop-img/pistol1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "AK-104 (6П47)",
+    "price": 230,
+    "category": "rifles",
+    "url": "/shop-img/rifle3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Colt AR-15",
+    "price": 489,
+    "category": "rifles",
+    "url": "/shop-img/rifle2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Heckler & Koch HK416",
+    "price": 330,
+    "category": "rifles",
+    "url": "/shop-img/rifle1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tactical knife Gerber",
+    "price": 75,
+    "category": "knives",
+    "url": "/shop-img/knife1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ruike f-118",
+    "price": 90,
+    "category": "knives",
+    "url": "/shop-img/knife2.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Антитеррор",
+    "price": 45,
+    "category": "knives",
+    "url": "/shop-img/knife3.jpg"
+  }
+]
